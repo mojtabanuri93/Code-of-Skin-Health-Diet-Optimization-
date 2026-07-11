@@ -7,6 +7,7 @@ GP: Goal Programming,
 WS: Weighted Sum,
 LP: LP-metric approach,
 LLP: Lexicographic LP-metric approach,
+IVP: Interactive Variable Prioritization,
 
 Female and Male are gender of people for case study,
 Fuzzy is the logic of uncertainty,
